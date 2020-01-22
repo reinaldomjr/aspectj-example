@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="com.sysweb.poc.aspect.MainClass" />
+    <option name="MAIN_CLASS_NAME" value="com.github.reinaldomjr.example.aspect.MainClass" />
     <module name="aspectj-compilation" />
     <option name="VM_PARAMETERS" value="-javaagent:&quot;$MAVEN_REPOSITORY$\org\aspectj\aspectjweaver\1.9.5\aspectjweaver-1.9.5.jar&quot;" />
     <extension name="coverage">
