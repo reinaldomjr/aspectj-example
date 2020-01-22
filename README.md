@@ -1,2 +1,1 @@
-# aspectj-example
-[![Actions Status](https://github.com/reinaldomjr/aspectj-example/workflows/Java CI/badge.svg)](https://github.com/reinaldomjr/aspectj-example/actions)
+![](https://github.com/reinaldomjr/aspectj-example/workflows/.github/workflows/maven.yml/badge.svg)
