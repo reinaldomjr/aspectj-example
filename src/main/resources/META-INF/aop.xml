@@ -1,0 +1,8 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.sysweb.poc.aspect.SecuredMethodAspect"/>
+        <weaver options="-verbose -showWeaveInfo">
+            <include within="com.sysweb.poc.aspect.*"/>
+        </weaver>
+    </aspects>
+</aspectj>

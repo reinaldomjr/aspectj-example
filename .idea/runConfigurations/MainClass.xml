@@ -1,0 +1,26 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.sysweb.poc.aspect.MainClass" />
+    <module name="aspectj-compilation" />
+    <option name="VM_PARAMETERS" value="-javaagent:&quot;$MAVEN_REPOSITORY$\org\aspectj\aspectjweaver\1.9.5\aspectjweaver-1.9.5.jar&quot;" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.sysweb.poc.aspect.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <extension name="net.ashald.envfile">
+      <option name="IS_ENABLED" value="false" />
+      <option name="IS_SUBST" value="false" />
+      <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+      <option name="IS_IGNORE_MISSING_FILES" value="false" />
+      <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+      <ENTRIES>
+        <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+      </ENTRIES>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
