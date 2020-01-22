@@ -2,7 +2,7 @@
     <aspects>
         <aspect name="com.github.reinaldomjr.example.aspect.SecuredMethodAspect"/>
         <weaver options="-verbose -showWeaveInfo">
-            <include within="com.sysweb.poc.aspect.*"/>
+            <include within="com.github.reinaldomjr.example.aspect.*"/>
         </weaver>
     </aspects>
 </aspectj>
