@@ -1,4 +1,5 @@
-import com.sysweb.poc.aspect.SecuredMethod;
+package com.github.reinaldomjr.example.aspect;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -9,6 +10,7 @@ class SecuredMethodTest {
                 new SecuredMethod().lockedMethod()
         );
     }
+
     @Test
     void unlockedMethod() {
         new SecuredMethod().unlockedMethod();

@@ -1,4 +1,4 @@
-package com.sysweb.poc.aspect;
+package com.github.reinaldomjr.example.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

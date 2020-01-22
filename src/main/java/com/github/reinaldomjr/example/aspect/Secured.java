@@ -1,4 +1,4 @@
-package com.sysweb.poc.aspect;
+package com.github.reinaldomjr.example.aspect;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

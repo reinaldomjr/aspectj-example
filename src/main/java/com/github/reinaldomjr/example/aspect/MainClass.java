@@ -1,4 +1,4 @@
-package com.sysweb.poc.aspect;
+package com.github.reinaldomjr.example.aspect;
 
 public class MainClass {
     public static void main(String[] args) {

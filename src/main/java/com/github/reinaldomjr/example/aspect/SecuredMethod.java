@@ -1,4 +1,4 @@
-package com.sysweb.poc.aspect;
+package com.github.reinaldomjr.example.aspect;
 
 public class SecuredMethod {
     @Secured(true)

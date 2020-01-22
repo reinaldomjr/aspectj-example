@@ -42,7 +42,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>com.sysweb.poc.aspect.MainClass</mainClass>
+                            <mainClass>com.github.reinaldomjr.example.aspect.MainClass</mainClass>
                         </manifest>
                         <manifestEntries>
                             <Launcher-Agent-Class>org.aspectj.weaver.loadtime.Agent</Launcher-Agent-Class>
