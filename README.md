@@ -1,5 +1,5 @@
 # AspectJ Exercise
-![](https://github.com/reinaldomjr/aspectj-example/workflows/Maven/badge.svg)
+![](https://github.com/reinaldomjr/aspectj-example/workflows/Maven/badge.svg)![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/reinaldomjr/aspectj-example?label=latest&logo=github&logoColor=yellow)
 
 This project is a simple example on how to apply AspectJ classes to a Java project
 
